@@ -3,7 +3,7 @@ Hi 👋
 I’m **Jessica**
 
 - 🌱 I’m currently learning about Telecommunications, Services and Uses at the National Institute of Applied Sciences (**INSA** 🦏) in Lyon.
-- 💞️ I’m currently working on projects related to my studies, but I’m also looking to collaborate on some insights about AI.
+- 💞️ I’m currently working on projects related to my studies.
 - 👀 I’m interested in **artificial intelligence**, cyber security and robotics in general.
 
 - 📫 How to reach me: 
