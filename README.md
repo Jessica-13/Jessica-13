@@ -3,7 +3,7 @@ Hi 👋
 I’m **Jessica**
 
 - 💞️ I’m currently attending an ERASMUS exchange at the Department of Electronic and Electrical Engineering at Trinity College of Dublin.
-- 🌱 I’m learning about Telecommunications, Services and Uses at the National Institute of Applied Sciences (**INSA** 🦏) in Lyon.
+- 🌱 I’m learning about Telecommunicationsat Engineering at the National Institute of Applied Sciences (**INSA** 🦏) in Lyon.
 - 👀 I’m interested in **artificial intelligence**, cyber security and robotics in general.
 
 - 📫 How to reach me: 
